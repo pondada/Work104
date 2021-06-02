@@ -1,0 +1,29 @@
+Big Data=大數據
+Data Analyze=資料分析=數據分析
+Data Mining=資料探勘=text mining=文字探勘
+Data Engineer=資料工程師
+Data Scientist=資料科學家
+關聯式資料庫=sql=mysql=ms sql=mssql=sql server=microsoft sql server=oracle
+非關聯式資料庫=monogodb=NoSQL=No SQL
+Docker=容器
+AWS=amazon web services
+Azur=microsoft azure
+cloud service=cloud server=cloud=雲服務=雲端服務=雲端運算
+AI=artificial intelligence=人工智慧=人工智能
+ML=machine learning=機器學習
+DL=deep learning=深度學習=深度神經網路=深度神經
+CNN=卷積神經網絡
+RNN=循環神經網路=遞歸神經網路
+影像辨識=圖片辨識=圖形辨識=圖像辨識
+人臉辨識=臉孔辨識=臉部辨識
+Matplotlib=matplotlib
+OpenCV=open source computer vision library
+Tensorflow=TensorFlow
+Hadoop=apache hadoop
+Flask=微框架
+spark=apache spark
+kafka=apache kafka
+ETL=elt
+chatbot=聊天機器人
+R=R程式=R語言
+API=application programming interface

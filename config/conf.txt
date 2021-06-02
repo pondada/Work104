@@ -1,0 +1,2 @@
+keyword=資料科學家
+dict=BigData_dict.txt

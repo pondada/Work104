@@ -1,0 +1,30 @@
+Hot words statistic (how many jobs have that hot word ) 
+關聯式資料庫:603
+API:316
+Data Analyze:238
+cloud service:147
+AWS:144
+ETL:136
+AI:132
+ML:97
+Docker:89
+Big Data:88
+非關聯式資料庫:65
+DL:45
+Hadoop:42
+R:38
+spark:36
+Data Engineer:27
+Data Scientist:25
+kafka:24
+Data Mining:23
+Flask:15
+Tensorflow:9
+影像辨識:8
+chatbot:7
+Matplotlib:3
+CNN:2
+人臉辨識:2
+OpenCV:2
+RNN:1
+Azur:0

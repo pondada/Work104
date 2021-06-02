@@ -1,0 +1,32 @@
+Skills statistic 
+MS SQL:348
+MySQL:317
+JavaScript:281
+Python:266
+HTML:212
+Linux:210
+Java:198
+C#:174
+jQuery:147
+CSS:144
+PHP:139
+Oracle:114
+PostgreSQL:71
+Git:71
+Node.js:68
+C++:68
+AWS:53
+C:42
+ETL:38
+Shell:35
+Go:31
+Tableau:26
+Github:25
+R:23
+Google Analytics:21
+Power BI​:20
+hadoop:19
+Hive:12
+Data Modeling:7
+Matlab:3
+Azure:0

@@ -1,0 +1,30 @@
+Hot words statistic 
+AI:168
+Data Analyze:144
+ML:106
+DL:76
+關聯式資料庫:56
+Big Data:44
+Data Scientist:38
+ETL:33
+R:31
+Tensorflow:30
+spark:26
+cloud service:24
+AWS:23
+API:19
+Hadoop:18
+Data Engineer:16
+Docker:13
+非關聯式資料庫:12
+Data Mining:9
+影像辨識:7
+CNN:4
+OpenCV:4
+Flask:4
+kafka:3
+chatbot:3
+RNN:2
+Azur:0
+人臉辨識:0
+Matplotlib:0

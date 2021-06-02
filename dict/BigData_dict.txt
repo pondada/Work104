@@ -1,0 +1,86 @@
+資料分析
+數據分析
+data analyze
+資料探勘
+文字探勘
+data mining
+Text Mining
+資料倉儲
+巨量資料
+巨量資料工程師
+資料工程師
+data engineer
+data scientist
+資料科學家
+大數據
+Big Data
+python
+SQL
+關聯式資料庫
+MySQL
+MS SQL
+MSSQL
+SQL server
+Microsoft SQL server
+Oracle
+非關聯式資料庫
+monogodb
+hadoop
+hive
+flask
+Hbase
+spark
+kafka
+docker
+Matplotlib
+aws
+Amazon Web Services
+gcp
+azure
+Microsoft Azure
+cloud service
+cloud server
+cloud
+雲服務
+雲端服務
+雲端運算
+AI
+Artificial intelligence
+人工智慧
+人工智能
+Machine learning
+ML
+機器學習
+Deep learning
+DL
+深度學習
+深度神經網路
+深度神經
+Chatbot
+聊天機器人
+影像辨識
+圖像辨識
+圖形辨識
+圖片辨識
+臉孔辨識
+人臉辨識
+Tensorflow
+TensorFlow
+Keras
+R程式
+R語言
+CNN
+RNN
+卷積神經網絡
+循環神經網路
+遞歸神經網路
+ETL
+ELT
+ELK
+NoSQL
+No SQL
+java
+javascript
+R
+API
+application programming interface
