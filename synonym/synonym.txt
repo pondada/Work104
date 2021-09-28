@@ -23,7 +23,7 @@ Hadoop=apache hadoop
 Flask=微框架
 spark=apache spark
 kafka=apache kafka
-ETL=elt
+ETL=etl
 chatbot=聊天機器人
 R=R程式=R語言
 API=application programming interface
